@@ -3,7 +3,7 @@ pandas==2.2.3
 numpy=2.2.3
 matplotlib==3.9.3
 altair=5.5.0
-streamlit_option_menu==0.4.0
+streamlit_option_menu
 plotly==6.0.1
 requests==2.32.3
 CoolProp==6.7.0
